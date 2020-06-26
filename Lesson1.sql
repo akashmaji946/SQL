@@ -208,7 +208,6 @@ WHERE (gloss_qty > 1000 OR
 
 /*
 Find all the company names that start with a 'C' or 'W', and the primary contact contains 'ana' or 'Ana', but it doesn't contain 'eana'.
-
 */
 SELECT *
 FROM accounts
